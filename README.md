@@ -1,5 +1,4 @@
 # SmartContract
-# Smart Contract Project - Secure Numbers
 
 ## Overview
 
