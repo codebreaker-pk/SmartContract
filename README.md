@@ -44,6 +44,13 @@ Once the contract is deployed, you can interact with it through its functions:
 
 The contract is designed for educational purposes and may not be suitable for production use without further security audits and enhancements. Always exercise caution when deploying smart contracts to production networks.
 
+## Author
+
+**Prashant Kumar**
+
+- GitHub: [github.com/codebreaker-pk](https://github.com/codebreaker-pk)
+- Email: official.pk.900@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
